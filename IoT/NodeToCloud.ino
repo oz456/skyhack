@@ -12,7 +12,7 @@ const char * writeAPIKey = "DEMO1234DEMO5678"; //////////// Demo ThingSpeak Writ
 WiFiClient client;
 
 // Pin for capacitive soil moisture sensor
-const int moisturePin = A2;  // Connect to any analog pin
+const int moisturePin = 34;  // Connect to any analog pin
 // Variable to store sensor reading
 int moistureValue = 0;
 
