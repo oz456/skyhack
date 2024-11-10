@@ -1,5 +1,5 @@
 // Pin for capacitive soil moisture sensor
-const int moisturePin = A2;  // Analog pin A0 for moisture sensor
+const int moisturePin = A2;  // Analog pin A2 for moisture sensor
 
 // Variable to store sensor reading
 int moistureValue = 0;
