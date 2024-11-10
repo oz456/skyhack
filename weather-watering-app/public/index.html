@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather and Watering Advisor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Weather and Watering Advisor</h1>
+        <form id="cropForm">
+            <label for="cropType">Crop Type:</label>
+            <select id="cropType" name="cropType" required>
+                <option value="wheat">Wheat</option>
+                <option value="corn">Corn</option>
+                <option value="rice">Rice</option>
+            </select>
+
+            <label for="city">City:</label>
+            <input type="text" id="city" name="city" required>
+
+            <label for="landArea">Land Area (in hectares):</label>
+            <input type="number" id="landArea" name="landArea" min="0" required>
+
+            <button type="submit">Get Watering Info</button>
+        </form>
+        <div id="errorMessage" class="error"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
