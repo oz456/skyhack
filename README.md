@@ -1,5 +1,5 @@
-# skyhack
-# Weather Watering App
+# Skyhack
+# SmartSprout
 
 A simple Node.js application that provides watering information for crops based on weather data. This application calculates the amount of water needed for different crop types based on land area, weather conditions, and evapotranspiration data.
 
