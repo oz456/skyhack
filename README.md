@@ -1,5 +1,4 @@
 # Skyhack
-# SmartSprout
 
 A simple Node.js application that provides watering information for crops based on weather data. This application calculates the amount of water needed for different crop types based on land area, weather conditions, and evapotranspiration data.
 
@@ -29,8 +28,8 @@ A simple Node.js application that provides watering information for crops based 
    ```bash
    node server.js
    
-3. Enter "localhost:3000" in your browser
+3. "localhost:3000"
 
 
 Additional Developments- 
-Used esp32,capcitive soil moisture sensor to check the moisture level in the soil and sent it to the cloud.
+Using esp32,capcitive soil moisture sensor to check the moisture level in the soil and sent it to the cloud.
