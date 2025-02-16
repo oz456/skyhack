@@ -32,4 +32,4 @@ A simple Node.js application that provides watering information for crops based 
 
 
 Additional Developments- 
-Using esp32,capcitive soil moisture sensor to check the moisture level in the soil and sent it to the cloud.
+Used esp32,capcitive soil moisture sensor to check the moisture level in the soil and sent it to the cloud.
