@@ -14,13 +14,10 @@ A simple Node.js application that provides watering information for crops based 
 
 - Node.js
 - Express.js
-- Body-Parser
-- dotenv
-- Morgan
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
    ```bash
    git clone https://github.com/oz456/skyhack
 
