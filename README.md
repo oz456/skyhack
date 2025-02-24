@@ -10,10 +10,6 @@ A simple Node.js application that provides watering information for crops based 
 - Calculates daily water usage based on weather conditions and crop requirements.
 - Suggests optimal watering times based on temperature.
 
-## Technologies Used
-
-- Node.js
-- Express.js
 
 ## Installation
 
